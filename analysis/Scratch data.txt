@@ -1,0 +1,20 @@
+Scratch data
+
+# words - inv correlation
+# images - inv correlation
+# videos - inv correlation
+#words title - parabolic (8-12)
+
+socmed, lifestyle, tech have the highest mean + median
+
+median points to weekends being better
+saturday is best
+
+mean shows that monday is better than friday, median shows friday better.
+
+
+
+
+# Notes about data itself
+
+More (~20%) words on weekends
